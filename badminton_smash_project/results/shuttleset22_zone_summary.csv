@@ -1,0 +1,372 @@
+opponent_move,opp_landing_zone,response,n_qualifying_players,n_players_using,pct_players_using,avg_frequency_pct,n_reliable_players,avg_win_score_pct,optimal_response
+back-court drive,back,drive,5,4,80.0,14.9,3,100.0,True
+back-court drive,back,return net,5,5,100.0,56.0,5,90.6,False
+back-court drive,back,cross-court net,5,1,20.0,1.1,0,,False
+back-court drive,back,defensive drive,5,1,20.0,1.2,0,,False
+back-court drive,back,defensive lob,5,3,60.0,4.9,0,,False
+back-court drive,back,lob,5,2,40.0,2.4,0,,False
+back-court drive,back,net shot,5,3,60.0,5.4,0,,False
+back-court drive,back,push,5,3,60.0,8.0,0,,False
+back-court drive,back,rush,5,2,40.0,3.1,0,,False
+back-court drive,back,smash,5,2,40.0,2.0,0,,False
+back-court drive,back,wrist smash,5,1,20.0,1.1,0,,False
+back-court drive,front,net shot,1,1,100.0,87.5,1,,False
+back-court drive,front,push,1,1,100.0,12.5,0,,False
+back-court drive,mid,defensive lob,27,9,33.3,2.9,2,100.0,True
+back-court drive,mid,net shot,27,11,40.7,2.9,2,100.0,False
+back-court drive,mid,return net,27,27,100.0,67.6,26,96.8,False
+back-court drive,mid,drive,27,21,77.8,10.4,5,96.4,False
+back-court drive,mid,push,27,10,37.0,4.8,4,91.7,False
+back-court drive,mid,back-court drive,27,3,11.1,0.6,0,,False
+back-court drive,mid,clear,27,5,18.5,1.5,0,,False
+back-court drive,mid,cross-court net,27,3,11.1,0.5,0,,False
+back-court drive,mid,defensive drive,27,10,37.0,2.8,0,,False
+back-court drive,mid,drop,27,5,18.5,1.6,0,,False
+back-court drive,mid,lob,27,6,22.2,1.9,0,,False
+back-court drive,mid,passive drop,27,1,3.7,0.1,0,,False
+back-court drive,mid,smash,27,2,7.4,0.3,0,,False
+back-court drive,mid,wrist smash,27,9,33.3,2.2,0,,False
+clear,back,passive drop,32,12,37.5,1.5,4,100.0,True
+clear,back,wrist smash,32,29,90.6,16.8,23,94.8,False
+clear,back,clear,32,30,93.8,24.0,26,92.5,False
+clear,back,drop,32,31,96.9,28.0,29,91.6,False
+clear,back,smash,32,32,100.0,28.6,29,91.6,False
+clear,back,back-court drive,32,3,9.4,0.5,0,,False
+clear,back,net shot,32,1,3.1,0.1,0,,False
+clear,back,return net,32,4,12.5,0.2,0,,False
+clear,back,rush,32,1,3.1,0.3,0,,False
+clear,front,back-court drive,27,12,44.4,3.1,3,100.0,True
+clear,front,clear,27,27,100.0,31.7,24,94.1,False
+clear,front,drop,27,27,100.0,29.1,22,93.7,False
+clear,front,passive drop,27,18,66.7,7.8,10,91.8,False
+clear,front,wrist smash,27,24,88.9,11.6,10,87.6,False
+clear,front,smash,27,23,85.2,16.6,19,87.5,False
+clear,front,return net,27,1,3.7,0.1,0,,False
+clear,mid,back-court drive,33,19,57.6,2.0,7,100.0,True
+clear,mid,passive drop,33,27,81.8,7.0,17,96.3,False
+clear,mid,clear,33,32,97.0,30.0,31,94.6,False
+clear,mid,wrist smash,33,30,90.9,12.3,25,91.8,False
+clear,mid,drop,33,33,100.0,25.0,32,90.7,False
+clear,mid,smash,33,33,100.0,23.6,32,90.1,False
+clear,mid,return net,33,1,3.0,0.0,0,,False
+cross-court net,back,cross-court net,12,7,58.3,7.0,2,100.0,True
+cross-court net,back,lob,12,11,91.7,34.7,8,100.0,False
+cross-court net,back,net shot,12,12,100.0,29.7,9,97.2,False
+cross-court net,back,push,12,8,66.7,17.9,7,92.9,False
+cross-court net,back,rush,12,6,50.0,8.9,2,80.0,False
+cross-court net,back,defensive drive,12,1,8.3,0.4,0,,False
+cross-court net,back,drive,12,1,8.3,1.0,0,,False
+cross-court net,back,return net,12,1,8.3,0.4,0,,False
+cross-court net,front,cross-court net,23,13,56.5,5.3,2,100.0,True
+cross-court net,front,lob,23,23,100.0,50.3,23,95.2,False
+cross-court net,front,net shot,23,22,95.7,28.4,18,91.1,False
+cross-court net,front,push,23,21,91.3,15.6,10,90.2,False
+cross-court net,front,drive,23,1,4.3,0.3,0,,False
+cross-court net,front,rush,23,1,4.3,0.1,0,,False
+defensive drive,back,smash,12,9,75.0,13.3,4,100.0,True
+defensive drive,back,return net,12,12,100.0,20.2,7,98.2,False
+defensive drive,back,drive,12,11,91.7,21.5,7,96.4,False
+defensive drive,back,rush,12,4,33.3,5.2,2,83.3,False
+defensive drive,back,back-court drive,12,2,16.7,1.4,0,,False
+defensive drive,back,clear,12,8,66.7,6.6,1,,False
+defensive drive,back,defensive drive,12,2,16.7,1.4,0,,False
+defensive drive,back,defensive lob,12,2,16.7,1.1,0,,False
+defensive drive,back,drop,12,6,50.0,5.9,1,,False
+defensive drive,back,lob,12,3,25.0,2.7,1,,False
+defensive drive,back,net shot,12,3,25.0,2.1,0,,False
+defensive drive,back,passive drop,12,3,25.0,2.9,0,,False
+defensive drive,back,push,12,5,41.7,3.9,0,,False
+defensive drive,back,wrist smash,12,11,91.7,11.6,1,,False
+defensive drive,mid,passive drop,8,6,75.0,13.5,2,100.0,True
+defensive drive,mid,clear,8,7,87.5,17.9,3,93.3,False
+defensive drive,mid,return net,8,8,100.0,24.2,4,87.5,False
+defensive drive,mid,back-court drive,8,4,50.0,4.7,0,,False
+defensive drive,mid,defensive lob,8,2,25.0,2.5,0,,False
+defensive drive,mid,drive,8,4,50.0,6.1,0,,False
+defensive drive,mid,drop,8,5,62.5,7.1,1,,False
+defensive drive,mid,lob,8,1,12.5,1.1,0,,False
+defensive drive,mid,net shot,8,2,25.0,1.8,0,,False
+defensive drive,mid,push,8,2,25.0,3.1,0,,False
+defensive drive,mid,rush,8,1,12.5,1.6,0,,False
+defensive drive,mid,smash,8,3,37.5,5.0,1,,False
+defensive drive,mid,wrist smash,8,6,75.0,11.3,1,,False
+defensive lob,back,clear,15,12,80.0,15.6,7,94.0,True
+defensive lob,back,smash,15,14,93.3,33.5,13,94.0,False
+defensive lob,back,wrist smash,15,14,93.3,21.2,10,91.7,False
+defensive lob,back,drop,15,14,93.3,20.0,7,88.7,False
+defensive lob,back,back-court drive,15,3,20.0,1.9,0,,False
+defensive lob,back,drive,15,1,6.7,0.7,0,,False
+defensive lob,back,passive drop,15,6,40.0,4.4,1,,False
+defensive lob,back,return net,15,2,13.3,1.3,0,,False
+defensive lob,back,rush,15,3,20.0,1.3,0,,False
+defensive lob,mid,drop,11,9,81.8,18.6,6,100.0,True
+defensive lob,mid,clear,11,11,100.0,35.2,8,97.1,False
+defensive lob,mid,smash,11,10,90.9,22.2,7,96.8,False
+defensive lob,mid,wrist smash,11,6,54.5,12.2,3,95.8,False
+defensive lob,mid,back-court drive,11,6,54.5,6.2,0,,False
+defensive lob,mid,passive drop,11,3,27.3,2.9,0,,False
+defensive lob,mid,return net,11,3,27.3,1.8,0,,False
+defensive lob,mid,rush,11,1,9.1,0.9,0,,False
+drive,back,return net,21,21,100.0,35.8,19,97.5,True
+drive,back,drive,21,21,100.0,42.7,21,91.6,False
+drive,back,defensive lob,21,13,61.9,6.5,5,86.5,False
+drive,back,back-court drive,21,1,4.8,0.1,0,,False
+drive,back,clear,21,2,9.5,0.3,0,,False
+drive,back,cross-court net,21,2,9.5,1.0,1,,False
+drive,back,defensive drive,21,14,66.7,4.9,1,,False
+drive,back,lob,21,6,28.6,1.4,0,,False
+drive,back,net shot,21,5,23.8,2.1,0,,False
+drive,back,push,21,4,19.0,1.4,0,,False
+drive,back,rush,21,2,9.5,0.8,0,,False
+drive,back,smash,21,6,28.6,1.3,0,,False
+drive,back,wrist smash,21,6,28.6,1.8,0,,False
+drive,mid,drive,12,11,91.7,33.7,9,94.4,True
+drive,mid,return net,12,12,100.0,37.2,10,89.3,False
+drive,mid,defensive lob,12,5,41.7,9.5,2,83.3,False
+drive,mid,back-court drive,12,2,16.7,1.4,0,,False
+drive,mid,clear,12,2,16.7,1.8,0,,False
+drive,mid,defensive drive,12,5,41.7,6.2,1,,False
+drive,mid,drop,12,1,8.3,0.6,0,,False
+drive,mid,lob,12,3,25.0,3.4,0,,False
+drive,mid,net shot,12,4,33.3,2.5,0,,False
+drive,mid,push,12,2,16.7,1.1,0,,False
+drive,mid,rush,12,2,16.7,1.8,0,,False
+drive,mid,wrist smash,12,1,8.3,0.9,0,,False
+drop,back,rush,29,10,34.5,2.1,2,100.0,True
+drop,back,return net,29,16,55.2,8.3,5,98.6,False
+drop,back,lob,29,27,93.1,15.2,14,96.3,False
+drop,back,net shot,29,29,100.0,56.9,28,95.4,False
+drop,back,push,29,23,79.3,8.4,10,94.2,False
+drop,back,cross-court net,29,18,62.1,7.6,6,90.3,False
+drop,back,defensive lob,29,1,3.4,0.2,0,,False
+drop,back,drive,29,7,24.1,0.9,0,,False
+drop,back,driven flight,29,1,3.4,0.1,0,,False
+drop,back,drop,29,1,3.4,0.0,0,,False
+drop,back,smash,29,1,3.4,0.2,0,,False
+drop,back,wrist smash,29,2,6.9,0.1,0,,False
+drop,front,cross-court net,32,17,53.1,4.0,7,98.2,True
+drop,front,push,32,23,71.9,8.3,18,96.9,False
+drop,front,lob,32,32,100.0,28.0,27,95.4,False
+drop,front,net shot,32,31,96.9,52.3,31,94.6,False
+drop,front,return net,32,14,43.8,6.7,9,90.4,False
+drop,front,clear,32,1,3.1,0.0,0,,False
+drop,front,defensive lob,32,1,3.1,0.1,0,,False
+drop,front,drive,32,1,3.1,0.0,0,,False
+drop,front,rush,32,7,21.9,0.5,1,,False
+drop,front,wrist smash,32,1,3.1,0.0,0,,False
+drop,mid,return net,33,18,54.5,8.0,8,99.4,True
+drop,mid,lob,33,29,87.9,16.8,20,95.6,False
+drop,mid,push,33,19,57.6,6.8,8,94.5,False
+drop,mid,net shot,33,33,100.0,62.3,33,94.0,False
+drop,mid,cross-court net,33,23,69.7,4.3,6,88.9,False
+drop,mid,defensive lob,33,6,18.2,0.7,0,,False
+drop,mid,drive,33,4,12.1,0.2,1,,False
+drop,mid,driven flight,33,2,6.1,0.2,0,,False
+drop,mid,drop,33,3,9.1,0.6,0,,False
+drop,mid,rush,33,1,3.0,0.1,0,,False
+drop,mid,wrist smash,33,1,3.0,0.0,0,,False
+lob,back,back-court drive,35,27,77.1,2.0,4,100.0,True
+lob,back,drop,35,35,100.0,21.5,34,95.2,False
+lob,back,wrist smash,35,33,94.3,13.0,30,93.2,False
+lob,back,clear,35,35,100.0,22.6,34,92.7,False
+lob,back,smash,35,35,100.0,37.7,35,92.4,False
+lob,back,passive drop,35,21,60.0,2.6,15,88.3,False
+lob,back,drive,35,5,14.3,0.1,0,,False
+lob,back,lob,35,2,5.7,0.1,0,,False
+lob,back,net shot,35,1,2.9,0.0,0,,False
+lob,back,return net,35,4,11.4,0.2,0,,False
+lob,back,rush,35,3,8.6,0.1,0,,False
+lob,front,back-court drive,34,29,85.3,10.9,17,97.8,True
+lob,front,drop,34,34,100.0,24.8,29,97.7,False
+lob,front,passive drop,34,30,88.2,11.1,18,95.3,False
+lob,front,clear,34,34,100.0,27.9,31,94.6,False
+lob,front,wrist smash,34,27,79.4,9.6,18,91.3,False
+lob,front,smash,34,31,91.2,15.1,24,89.6,False
+lob,front,cross-court net,34,2,5.9,0.1,0,,False
+lob,front,defensive lob,34,1,2.9,0.1,0,,False
+lob,front,lob,34,1,2.9,0.1,0,,False
+lob,front,net shot,34,2,5.9,0.2,0,,False
+lob,mid,back-court drive,35,28,80.0,3.5,22,97.5,True
+lob,mid,clear,35,34,97.1,30.7,34,94.8,False
+lob,mid,drop,35,35,100.0,24.7,35,93.6,False
+lob,mid,wrist smash,35,33,94.3,11.9,29,92.9,False
+lob,mid,passive drop,35,30,85.7,5.4,20,92.8,False
+lob,mid,smash,35,35,100.0,23.0,33,89.5,False
+lob,mid,cross-court net,35,1,2.9,0.2,0,,False
+lob,mid,drive,35,3,8.6,0.1,0,,False
+lob,mid,lob,35,4,11.4,0.1,0,,False
+lob,mid,net shot,35,2,5.7,0.1,0,,False
+lob,mid,return net,35,6,17.1,0.2,0,,False
+net shot,back,lob,34,34,100.0,50.7,33,94.9,True
+net shot,back,cross-court net,34,11,32.4,0.7,3,94.4,False
+net shot,back,net shot,34,34,100.0,35.3,34,93.3,False
+net shot,back,rush,34,25,73.5,3.2,15,93.3,False
+net shot,back,push,34,30,88.2,9.5,26,91.7,False
+net shot,back,drive,34,11,32.4,0.4,1,,False
+net shot,back,driven flight,34,2,5.9,0.1,0,,False
+net shot,back,passive drop,34,2,5.9,0.1,0,,False
+net shot,front,lob,35,35,100.0,54.7,35,94.7,True
+net shot,front,push,35,34,97.1,10.1,29,94.0,False
+net shot,front,net shot,35,35,100.0,30.0,35,89.0,False
+net shot,front,rush,35,31,88.6,2.1,13,85.6,False
+net shot,front,cross-court net,35,27,77.1,2.5,17,83.1,False
+net shot,front,clear,35,1,2.9,0.0,0,,False
+net shot,front,defensive lob,35,1,2.9,0.0,0,,False
+net shot,front,drive,35,8,22.9,0.2,0,,False
+net shot,front,driven flight,35,4,11.4,0.1,0,,False
+net shot,front,drop,35,1,2.9,0.0,0,,False
+net shot,front,passive drop,35,2,5.7,0.1,0,,False
+net shot,front,smash,35,1,2.9,0.0,0,,False
+net shot,front,wrist smash,35,2,5.7,0.0,0,,False
+net shot,mid,lob,2,2,100.0,33.3,2,100.0,True
+net shot,mid,net shot,2,2,100.0,35.0,2,100.0,False
+net shot,mid,cross-court net,2,1,50.0,5.0,0,,False
+net shot,mid,drive,2,1,50.0,3.3,0,,False
+net shot,mid,push,2,2,100.0,23.3,1,,False
+passive drop,back,lob,14,9,64.3,11.8,4,100.0,True
+passive drop,back,push,14,13,92.9,15.2,6,100.0,False
+passive drop,back,cross-court net,14,13,92.9,15.0,5,96.0,False
+passive drop,back,net shot,14,14,100.0,47.0,14,90.9,False
+passive drop,back,drive,14,5,35.7,2.1,0,,False
+passive drop,back,passive drop,14,1,7.1,0.6,0,,False
+passive drop,back,rush,14,9,64.3,7.1,1,,False
+passive drop,back,smash,14,1,7.1,0.4,0,,False
+passive drop,back,wrist smash,14,1,7.1,0.8,0,,False
+passive drop,front,lob,17,16,94.1,21.2,13,97.4,True
+passive drop,front,push,17,16,94.1,17.8,13,96.9,False
+passive drop,front,net shot,17,17,100.0,41.1,16,96.6,False
+passive drop,front,rush,17,13,76.5,6.9,3,80.6,False
+passive drop,front,cross-court net,17,14,82.4,9.4,5,80.0,False
+passive drop,front,drive,17,3,17.6,0.7,0,,False
+passive drop,front,drop,17,1,5.9,0.4,0,,False
+passive drop,front,return net,17,4,23.5,2.5,1,,False
+passive drop,mid,cross-court net,13,11,84.6,10.9,3,100.0,True
+passive drop,mid,net shot,13,13,100.0,51.2,13,97.8,False
+passive drop,mid,push,13,11,84.6,17.5,4,96.4,False
+passive drop,mid,lob,13,10,76.9,12.9,3,88.3,False
+passive drop,mid,drive,13,3,23.1,2.8,1,,False
+passive drop,mid,return net,13,3,23.1,2.5,0,,False
+passive drop,mid,rush,13,3,23.1,1.3,0,,False
+passive drop,mid,smash,13,1,7.7,0.9,0,,False
+push,back,back-court drive,29,15,51.7,4.1,2,100.0,True
+push,back,wrist smash,29,25,86.2,15.1,14,94.8,False
+push,back,return net,29,20,69.0,9.6,7,94.3,False
+push,back,drop,29,22,75.9,9.5,9,93.4,False
+push,back,defensive lob,29,13,44.8,4.8,4,91.7,False
+push,back,clear,29,24,82.8,21.4,18,90.6,False
+push,back,drive,29,22,75.9,14.7,15,90.1,False
+push,back,smash,29,25,86.2,13.8,14,88.5,False
+push,back,passive drop,29,14,48.3,4.5,5,86.7,False
+push,back,defensive drive,29,5,17.2,1.0,1,,False
+push,back,lob,29,5,17.2,1.0,0,,False
+push,back,push,29,2,6.9,0.3,0,,False
+push,back,rush,29,3,10.3,0.3,0,,False
+push,front,smash,22,9,40.9,3.3,2,100.0,True
+push,front,back-court drive,22,21,95.5,25.9,16,95.5,False
+push,front,clear,22,21,95.5,35.2,20,93.6,False
+push,front,drop,22,14,63.6,8.8,6,93.5,False
+push,front,passive drop,22,20,90.9,25.1,18,89.0,False
+push,front,lob,22,1,4.5,0.1,0,,False
+push,front,net shot,22,1,4.5,0.2,0,,False
+push,front,wrist smash,22,5,22.7,1.4,1,,False
+push,mid,clear,33,30,90.9,31.1,30,96.0,True
+push,mid,wrist smash,33,28,84.8,8.4,12,94.1,False
+push,mid,back-court drive,33,26,78.8,11.9,22,93.2,False
+push,mid,drive,33,20,60.6,4.3,6,92.9,False
+push,mid,passive drop,33,29,87.9,12.9,23,92.5,False
+push,mid,drop,33,31,93.9,11.9,19,91.9,False
+push,mid,smash,33,31,93.9,11.1,21,91.4,False
+push,mid,return net,33,20,60.6,6.3,10,91.2,False
+push,mid,defensive drive,33,4,12.1,0.4,0,,False
+push,mid,defensive lob,33,5,15.2,0.6,1,,False
+push,mid,lob,33,4,12.1,0.9,0,,False
+push,mid,net shot,33,1,3.0,0.0,0,,False
+push,mid,push,33,3,9.1,0.4,1,,False
+return net,back,drive,33,26,78.8,3.6,11,97.7,True
+return net,back,net shot,33,33,100.0,41.0,32,97.2,False
+return net,back,lob,33,33,100.0,26.5,33,96.0,False
+return net,back,cross-court net,33,22,66.7,3.7,11,93.7,False
+return net,back,push,33,32,97.0,15.2,28,92.9,False
+return net,back,return net,33,19,57.6,1.3,3,88.9,False
+return net,back,rush,33,28,84.8,7.3,17,86.7,False
+return net,back,clear,33,2,6.1,0.1,0,,False
+return net,back,defensive drive,33,1,3.0,0.1,0,,False
+return net,back,defensive lob,33,1,3.0,0.1,0,,False
+return net,back,driven flight,33,4,12.1,0.3,0,,False
+return net,back,smash,33,11,33.3,0.7,1,,False
+return net,back,wrist smash,33,4,12.1,0.2,0,,False
+return net,front,lob,34,34,100.0,32.4,33,94.3,True
+return net,front,net shot,34,34,100.0,40.7,34,94.3,False
+return net,front,cross-court net,34,27,79.4,6.3,14,91.8,False
+return net,front,rush,34,30,88.2,5.7,21,90.4,False
+return net,front,push,34,33,97.1,13.4,29,89.6,False
+return net,front,back-court drive,34,1,2.9,0.0,0,,False
+return net,front,drive,34,13,38.2,0.8,1,,False
+return net,front,driven flight,34,2,5.9,0.1,0,,False
+return net,front,return net,34,7,20.6,0.3,0,,False
+return net,front,smash,34,4,11.8,0.3,0,,False
+return net,front,wrist smash,34,1,2.9,0.0,0,,False
+return net,mid,rush,23,11,47.8,4.3,5,100.0,True
+return net,mid,net shot,23,23,100.0,41.5,20,95.1,False
+return net,mid,lob,23,21,91.3,23.5,15,93.4,False
+return net,mid,push,23,21,91.3,20.0,14,88.2,False
+return net,mid,cross-court net,23,10,43.5,4.1,2,83.3,False
+return net,mid,back-court drive,23,1,4.3,0.2,0,,False
+return net,mid,clear,23,1,4.3,0.4,0,,False
+return net,mid,defensive lob,23,1,4.3,0.2,0,,False
+return net,mid,drive,23,9,39.1,3.1,1,,False
+return net,mid,driven flight,23,1,4.3,0.3,0,,False
+return net,mid,return net,23,7,30.4,1.8,0,,False
+return net,mid,smash,23,2,8.7,0.3,0,,False
+return net,mid,wrist smash,23,1,4.3,0.3,0,,False
+rush,back,defensive lob,11,9,81.8,20.5,5,92.9,True
+rush,back,defensive drive,11,10,90.9,27.1,6,92.8,False
+rush,back,return net,11,11,100.0,48.2,9,60.2,False
+rush,back,clear,11,1,9.1,0.4,0,,False
+rush,back,drive,11,1,9.1,0.9,1,,False
+rush,back,lob,11,1,9.1,1.0,0,,False
+rush,back,net shot,11,1,9.1,1.0,0,,False
+rush,back,passive drop,11,1,9.1,0.9,0,,False
+rush,mid,defensive drive,1,1,100.0,12.5,0,,False
+rush,mid,defensive lob,1,1,100.0,37.5,1,,False
+rush,mid,lob,1,1,100.0,25.0,0,,False
+rush,mid,return net,1,1,100.0,25.0,0,,False
+smash,back,defensive lob,31,18,58.1,4.9,7,92.9,True
+smash,back,defensive drive,31,22,71.0,8.5,11,90.8,False
+smash,back,return net,31,31,100.0,85.1,31,88.5,False
+smash,back,cross-court net,31,4,12.9,0.4,1,,False
+smash,back,drive,31,3,9.7,0.6,0,,False
+smash,back,lob,31,2,6.5,0.2,0,,False
+smash,back,net shot,31,4,12.9,0.4,0,,False
+smash,mid,cross-court net,34,12,35.3,1.1,2,100.0,True
+smash,mid,defensive lob,34,27,79.4,5.9,15,92.7,False
+smash,mid,return net,34,34,100.0,86.7,34,87.7,False
+smash,mid,defensive drive,34,25,73.5,4.3,13,85.5,False
+smash,mid,clear,34,2,5.9,0.0,0,,False
+smash,mid,drive,34,4,11.8,0.3,0,,False
+smash,mid,drop,34,3,8.8,0.2,0,,False
+smash,mid,lob,34,3,8.8,0.1,0,,False
+smash,mid,net shot,34,13,38.2,1.2,0,,False
+smash,mid,push,34,1,2.9,0.1,0,,False
+smash,mid,smash,34,1,2.9,0.1,0,,False
+wrist smash,back,defensive lob,24,14,58.3,7.4,5,97.1,True
+wrist smash,back,return net,24,24,100.0,78.1,24,94.4,False
+wrist smash,back,defensive drive,24,18,75.0,9.6,8,89.6,False
+wrist smash,back,cross-court net,24,4,16.7,1.0,0,,False
+wrist smash,back,drive,24,6,25.0,1.9,0,,False
+wrist smash,back,lob,24,3,12.5,0.4,0,,False
+wrist smash,back,net shot,24,8,33.3,1.6,1,,False
+wrist smash,mid,cross-court net,32,7,21.9,1.3,3,100.0,True
+wrist smash,mid,net shot,32,13,40.6,1.2,2,100.0,False
+wrist smash,mid,defensive lob,32,27,84.4,9.1,14,96.3,False
+wrist smash,mid,defensive drive,32,24,75.0,7.3,15,91.5,False
+wrist smash,mid,return net,32,32,100.0,79.0,32,89.1,False
+wrist smash,mid,back-court drive,32,1,3.1,0.0,0,,False
+wrist smash,mid,clear,32,1,3.1,0.1,0,,False
+wrist smash,mid,drive,32,2,6.2,0.3,0,,False
+wrist smash,mid,drop,32,1,3.1,0.0,0,,False
+wrist smash,mid,lob,32,8,25.0,0.7,0,,False
+wrist smash,mid,passive drop,32,1,3.1,0.1,0,,False
+wrist smash,mid,push,32,6,18.8,0.8,0,,False
+wrist smash,mid,rush,32,1,3.1,0.0,0,,False
+wrist smash,mid,wrist smash,32,1,3.1,0.1,0,,False

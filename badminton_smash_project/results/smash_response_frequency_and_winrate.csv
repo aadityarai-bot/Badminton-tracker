@@ -1,0 +1,16 @@
+response_shot,n_instances,frequency_pct,win_rate_pct
+return net,6739,79.7,46.1
+defensive return drive,595,7.0,49.6
+defensive return lob,570,6.7,46.1
+cross-court net shot,282,3.3,53.2
+net shot,124,1.5,52.4
+drive,54,0.6,50.0
+lob,41,0.5,56.1
+push,22,0.3,45.5
+drop,9,0.1,22.2
+clear,4,0.0,25.0
+wrist smash,4,0.0,75.0
+smash,3,0.0,33.3
+back-court drive,2,0.0,0.0
+driven flight,1,0.0,0.0
+rush,1,0.0,0.0
